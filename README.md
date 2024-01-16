@@ -1,6 +1,6 @@
 # Netflix Clone
 
-- Demo: <https://netflix-clone-ebon-nu.vercel.app/>
+
 
 This project is a simplified front end clone of Netflix. It was created with React and CSS (Grid and Flexbox). It uses [The MovieDB Api](https://www.themoviedb.org/documentation/api) to search for movies and display details. Feel free to contribute!
 
@@ -41,9 +41,6 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 - User can click on a movie and a modal should pop up. It should display the title, release date, overview, and runtime.
 - The webpage adapts to any screen size.
 
-### Video Walktrough
-
-![](https://github.com/AndresXI/Netflix-Clone/blob/master/netflix-demo.gif?raw=true)
 
 Please feel free to create a pull request and submit any issues!
 Currently looking for backend developers. If you would to contribute to support a backend, reach out, all ideas are welcomed!
